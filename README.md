@@ -1,2 +1,2 @@
-# Bitirme-Cal-smas-
+# Bitirme-Calismasi
 House Prices - Advanced Regression Techniques
